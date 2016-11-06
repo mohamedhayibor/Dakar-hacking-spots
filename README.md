@@ -9,6 +9,12 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 Ping: **74 ms**   Download: **7.1 Mbps** Upload: **1 Mbps** | Plug/Ask | 27 avenue leopold sedar senghor  | 8AM-9:30PM | 
 
+[Presse cafe](http://pressecafe.sn/fr/)
+------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+Ping: **239 ms**   Download: **2.5 Mbps** Upload: **0 Mbps** | Yes | [Google Maps](https://www.google.com/maps/place/Presse+Caf%C3%A9/@14.6674147,-17.4414103,15z/data=!4m5!3m4!1s0x0:0xce078e8d82827c5a!8m2!3d14.6674147!4d-17.4414103)  | N/A |
+
 ### Etiquette
 The restaurants/cafes will gladly give you the wifi code if you order something reasonable. (example: esspresso + 2 croissants = 2,200 CFA about $4).
 
