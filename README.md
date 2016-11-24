@@ -28,7 +28,7 @@ Ceasar Mermoz
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-Ping: **101ms**   Download: **1 Mbps** Upload: **0.3 Mbps** | Plug/Ask | [Google maps](https://www.google.sn/maps/place/Caesar+Mermoz/@14.7027369,-17.4737596,17z/data=!4m6!3m5!1s0xec1729f49b3dc51:0xe40f01701887eeac!4b1!8m2!3d14.7036449!4d-17.4741351)  | 8AM-6:00PM |
+Ping: **101ms**   Download: **1 Mbps** Upload: **0.3 Mbps** | Yes | [Google maps](https://www.google.sn/maps/place/Caesar+Mermoz/@14.7027369,-17.4737596,17z/data=!4m6!3m5!1s0xec1729f49b3dc51:0xe40f01701887eeac!4b1!8m2!3d14.7036449!4d-17.4741351)  | 8AM-6:00PM |
 
 ### Etiquette
 The restaurants/cafes will gladly give you the wifi code if you order something reasonable. (example: esspresso + 2 croissants = 2,200 CFA about $4).
